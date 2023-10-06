@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Microsoft Azure: Deploy Resource Groups](https://github.com/NathanSuguitan/Azure-ResourceGroups)
   - [Microsoft Azure: Deploy Virtual Machine (VM)](https://github.com/NathanSuguitan/Azure-VM)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/NathanSuguitan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
